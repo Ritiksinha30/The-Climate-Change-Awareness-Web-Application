@@ -1,1 +1,2 @@
-# The-Climate-Change-Awareness-Web-Application
+## The-Climate-Change-Awareness-Web-Application
+The Climate Change Awareness Web Application is an interactive, informative platform developed to educate users about the current climate crisis, visualize its impact through data-driven graphics and real-world images, and inspire action through awareness. The site is structured to offer users a seamless experience focusing on user engagement, data visualization, and interactivity, utilizing technologies like Python, Streamlit, SQLite, Pandas, Seaborn, GeoPandas, and more
